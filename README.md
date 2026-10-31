@@ -188,3 +188,9 @@ Every frame is calculated from math, not from stored images. Each cell of a char
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Config G++ in YOUR PC 
+> If your pc not recognize G++ or not configured for GCC and CPP. 
+<br>
+- Kindly Visit:
+[Config G++](https://code-with-hassan-phi.vercel.app/blog/config-vs-code-for-c)
